@@ -3,9 +3,9 @@
 
 
 ##Ensimmäiset vihjelaput
-1. testi
-2. testi
-3. testi
-4. t
-5. t
+1. git clone
+2. git commit
+3. git init
+4. git pull
+5. git push
 
